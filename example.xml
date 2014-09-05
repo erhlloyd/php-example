@@ -1,0 +1,55 @@
+<?xml version='1.0' standalone='yes'?>
+<songs>
+ <song>
+  <title>Eye of the Tiger</title>
+  <artist>
+    <name>Survivor</name>
+    <country>America</country>
+  </artist>
+  <album>Rocky III Original Soundtrack</album>
+  <lyrics>
+   <lyric>And he's watching us all with the eyyyyyyyyyye ... of the tiger</lyric>
+  </lyrics> 
+ </song>
+
+ <song>
+  <title>The Final Countdown</title>
+  <artist>
+    <name>Europe</name>
+    <country>Sweden</country>
+  </artist>
+  <album>The Final Countdown</album>
+  <lyrics>
+   <lyric>It's the FINAL COUNTDOWN!</lyric>
+  </lyrics> 
+ </song>
+
+ <song>
+  <title>Rock You Like A Hurricane</title>
+  <artist>
+    <name>The Scorpions</name>
+    <country>Germany</country>
+  </artist>
+  <album>Love at First Sting</album>
+  <lyrics>
+   <lyric>Here I am / Rock you like a hurricane</lyric>
+  </lyrics> 
+ </song>
+
+ <song>
+  <title>Take On Me</title>
+  <artist>
+    <name>A-ha</name>
+    <country>Norway</country>
+  </artist>
+  <album>Hunting High and Low</album>
+  <lyrics>
+   <lyric>I'll be gone in a day or twooooooooo</lyric>
+  </lyrics> 
+ </song>
+
+</songs>
+<why>
+   This xml file serves no other purpose than to be uploadable and downloadable.
+   And maybe put terrible earworms in your head.
+</why>
